@@ -7,6 +7,7 @@ The CGPA Result Forecaster calculates your GPA and CGPA score, then from your cu
 Read how the project was built: https://favouritejome.hashnode.dev/Online-CGPA-and-GPA-calculator
 
 **How to use Onine CGPA and GPA calculator**
+
 Add the number of columns you want (i.e. the number of courses you want to calculate for) by clicking on the Enter key or the Add button.
 
 Enter the course code for your respective courses.
