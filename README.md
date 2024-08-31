@@ -1,7 +1,9 @@
 **Onine CGPA and GPA calculator:**
+
 This project was made for Hashnode Vercel Hackathon
 
 **What it does:**
+
 The CGPA Result Forecaster calculates your GPA and CGPA score, then from your current score forecast the average estimate score to end up with a 1st, 2nd upper/lower class.
 
 Read how the project was built: https://favouritejome.hashnode.dev/Online-CGPA-and-GPA-calculator
